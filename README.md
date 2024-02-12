@@ -2,6 +2,8 @@
 
 a tiny vision language model that kicks ass and runs anywhere
 
+'''apt update && apt install nano git sudo python3 python3-pip -y && cd && git clone https://github.com/tj31moll/moondream && cd moondream'''
+
 ## moondream1
 
 1.6B parameter model built using SigLIP, Phi-1.5 and the LLaVA training dataset.
